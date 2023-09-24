@@ -1,4 +1,4 @@
-#lab 01 : Mini project to create a file with terraform 
+# lab 01 : Mini project to create a file with terraform 
 
 
 the variables.tf file is intended to declare two variables:
